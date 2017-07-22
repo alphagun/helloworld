@@ -1,5 +1,3 @@
-package helloWorld;
-
 import org.junit.runners.Suite;
 import org.junit.runner.RunWith;
 
